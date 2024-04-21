@@ -1,0 +1,53 @@
+# Romanian blogs array
+romanian_blogs = [
+    "https://www.agrointel.ro",
+    "https://www.agro365.ro",
+
+    "https://www.avocatnet.ro",
+    "https://www.jurnalul.ro/justitie/",
+
+    "https://www.ziare.com/cultura/",
+    "https://xplorer.ro/romania/locuri-de-vizitat-in-bucuresti/",
+
+    "https://www.radioromaniacultural.ro/",
+    "https://www.urban.ro/muzica/"]
+
+   X "https://www.arhitectura.ro",
+    "https://www.igloo.ro",
+
+   X "https://www.gazetasporturilor.ro",
+    "https://www.sport.ro",
+
+   X "https://www.fotograf.ro",
+   X "https://www.vice.com/ro/section/fotografie",
+
+   X "https://www.parinti.com",
+   X "https://www.babyboom.ro/rubrici/parinti/"
+]
+
+# Moldovan blogs array
+moldovan_blogs = [
+    "https://agrobiznes.md/",
+    "https://agromedia.md/",
+
+    "https://cji.md/categorie/asistenta-juridica/juristul-presei/",
+    "https://www.parlament.md/",
+
+    "https://moldova.travel/",
+    "https://descopera.md/",
+
+    "https://moldovenii.md/md/section/56",
+    "https://ampedstudio.com/ro/cum-sa-faci-muzica/"]
+    X"https://www.arhitect.md",
+    X"https://www.designmoldova.md",
+
+    "https://sporter.md/news",
+    "https://agora.md/Sport"
+
+    X"https://www.foto.md",
+    X"https://www.fotografie.md",
+
+    X"https://www.mamamoldovence.md",
+    X"https://www.copiimoldovenesti.md"
+]
+# https://www.moldova.org/category/reportaje/
